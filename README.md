@@ -8,32 +8,33 @@
 
 ## Cài đặt 🛠️
 
-1. Clone the repository:
+1. Sao chép kho lưu trữ:
     ```bash
     git clone https://github.com/username/BBird-AI-Flashcards-App.git
     cd BBird-AI-Flashcards-App
     ```
 
-2. Install dependencies:
+2. Cài đặt dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Run the application:
+3. Chạy ứng dụng:
     ```bash
     python main.py
     ```
 
-## Contribution 🤝
+## Đóng góp 🤝
 
-We welcome contributions from the community. If you would like to contribute to this project, please follow these steps:
+Chúng tôi hoan nghênh sự đóng góp từ cộng đồng. Nếu bạn muốn đóng góp cho dự án này, vui lòng làm theo các bước sau:
 
-1. Fork this repository.
-2. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`).
+1. Phân nhánh kho lưu trữ.
+2. Tạo một nhánh mới cho tính năng(`git checkout -b feature/AmazingFeature`).
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push the branch to GitHub (`git push origin feature/AmazingFeature`).
 5. Create a Pull Request.
 
-## Contact 📧
+## Chi tiết thêm ( More information) 📧
+Dự án này là thành quả của sự hợp tác từ nhóm 4 thành viên. Để tìm hiểu thêm về dự án, bạn có thể xem thông tin chi tiết qua đường link bên dưới:
 
-If you have any questions, please contact us at: support@bbird.com.
+Cre: [](https://github.com/Hoanganhvu123/BBird_AI_Flashcards_App/blob/main/README.md)](https://github.com/Hoanganhvu123/BBird_AI_Flashcards_App/blob/main/README.md)
