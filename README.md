@@ -35,6 +35,5 @@ Chúng tôi hoan nghênh sự đóng góp từ cộng đồng. Nếu bạn muố
 5. Create a Pull Request.
 
 ## Chi tiết thêm ( More information) 📧
-Dự án này là thành quả của sự hợp tác từ nhóm 4 thành viên. Để tìm hiểu thêm về dự án, bạn có thể xem thông tin chi tiết qua đường link bên dưới:
-
-Cre: [](https://github.com/Hoanganhvu123/BBird_AI_Flashcards_App/blob/main/README.md)](https://github.com/Hoanganhvu123/BBird_AI_Flashcards_App/blob/main/README.md)
+Dự án này là thành quả của sự hợp tác từ nhóm 4 thành viên. Để tìm hiểu thêm về dự án, xem thông tin chi tiết qua đường link bên dưới:
+Cre:  https://github.com/Hoanganhvu123/BBird_AI_Flashcards_App/blob/main/README.md
