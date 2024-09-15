@@ -4,7 +4,7 @@
 
 ## Poster của nhóm mình
 
-<img src="![BBird Flashcard](https://github.com/user-attachments/assets/8a947ada-c490-482c-86d1-90afd3d5af47)" alt="..." width="250" />
+![BBird Flashcard](https://github.com/user-attachments/assets/8a947ada-c490-482c-86d1-90afd3d5af47)
 
 ## Cài đặt 🛠️
 
